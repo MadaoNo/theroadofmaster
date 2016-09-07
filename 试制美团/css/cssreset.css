@@ -1,0 +1,17 @@
+body,ul,p,h1,h2,h3,dl,dd,form,input,textarea,select,li{
+    padding: 0;
+    margin: 0;
+    font-family: "Microsoft YaHei", SimSun, '\5b8b\4f53', sans-serif;
+}
+ul{
+    list-style: none;
+}
+img{
+    border: none;
+}
+a:link, a:visited{
+    text-decoration: none;
+}
+a:hover, a:active{
+    text-decoration: underline;
+}
